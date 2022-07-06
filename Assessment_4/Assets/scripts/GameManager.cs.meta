@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b5102dd6cdbc174dbd5f879170ca359
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - score: {instanceID: 0}
+  - FallingDownSound: {fileID: 8300000, guid: f191d4d9841ac52418e2ffb0b2d345ee, type: 3}
+  - DiamondCollect: {fileID: 8300000, guid: 3beb73b242d0167428a93b77942c7236, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
